@@ -492,7 +492,6 @@ elif dropdown=="3 Calculation of separation of Litho-contact due to Faulting":
 
 
     import streamlit as st
-    import matplotlib.pyplot as plt
     import numpy as np
 
     def line_equation(m, c, x):
