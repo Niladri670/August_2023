@@ -22,7 +22,7 @@ st.markdown(hide_menu_style,unsafe_allow_html=True)
 #--------Header Section---------
 ######################################################################################################################################
 st.write("""
-# Structural Geology Practical NoteBook WebApp
+# SStructural Geology Practical NoteBook WebApp
  """)
 with st.container():
     st.write("###### Hi, I am Niladri Das ! :wave:")
